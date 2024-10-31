@@ -1,0 +1,34 @@
+---
+title: "Erynne Jackson"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+Hello! 
+
+My name is Erynne Jackson and I am a 2nd year Epidemiology student at Columbia University, with a certificate in Advanced Epidemiology. 
+
+
+<img src="IMG_4971.jpg" style="width:40%">
+
+
+
+Fun facts about me: 
+
+- I am a California native 
+
+- I can play keyboard and a little bit of guitar 
+
+- I LOVE baking 
+
+- You are looking at a future social-perinatal epidemiologist!
+
+
+If you'd like to learn more about my professional and research experience, visit [this page](About.html). 
+
+
+If you want to see some plots on the Instacart data, visit [this page](plotly.html).
+
+
+
