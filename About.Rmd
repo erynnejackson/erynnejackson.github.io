@@ -1,0 +1,108 @@
+---
+title: "About Me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<img src="IMG_8136.jpg" style="width:30%">
+
+MPH Candidate, Department of Epidemiology
+
+Graduate Research Assistant, VIBE Lab 
+
+Teaching Assistant, Determinants of Health Studio
+
+Columbia University Mailman School of Public Health
+
+
+# EDUCATION 
+Columbia University, Mailman School of Public Health 					                           Expected May 2025 
+Master of Public Health (MPH), Department of Epidemiology   	 	                            New York, NY
+Certificate in Advanced Epidemiology (GPA: 4.0) 
+
+University of California – Irvine, College of Health Sciences					                      June 2023 
+Bachelor of Arts (B.A.) in Public Health Policy; B.A. in Psychology 				                Irvine, CA
+Cum Laude (GPA: 3.8)
+
+# SKILLS  
+●	Computer/Data Analysis: SAS, R, Qualtrics, STATA, Microsoft PowerPoint, Excel, and Word; CITI certified.
+
+●	Other skills: Diplomatic communication, grant proposal writing, program planning and evaluation, health communication, and health education 
+
+# RELEVANT COURSEWORK  
+●	Undergraduate: PUBHLTH 101 (Introduction to Epidemiology), PPSYCH 10A (Exploratory Data Analysis), PSYCH 10B (Probability and Inference), PSYCH 10C (Statistical Models), LPS 30 (Introduction to Symbolic Logic)
+
+●	Graduate: P6081 (Personal Leadership in Public Health), P8471 (Social Epidemiology), P8400 (Applied Epidemiologic Analysis), P8100 (Applied Regression I), P8105 (Data Science I), P8120 (Analysis of Categorical Data), P8438 (Design and Conduct of Observational Epidemiologic Research), P8483 (Application of Epidemiologic Research Methods)
+
+# RESEARCH & PROFESSIONAL EXPERIENCE
+### Columbia University Mailman School of Public Health, Office of Educational Initiatives              August 2024-Present
+Graduate Teaching Assistant, Determinants of Health Studio						                   New York, NY
+
+●	Assisting faculty members in setting up classroom for instruction, including technological support, to ensure a smooth and conducive learning environment for students. 
+
+●	Working closely with 6 faculty members and 15 teaching assistants to develop core curriculum that integrates environmental, biological, and social systems and explore their impact on health. 
+
+●	Collaborating with teaching assistants to grade academic work and track performance for 400 first-year students, while closely working with 50 students for comprehensive feedback and individualized support.
+
+●	Developed questions for midterm and final exams, ensuring that all content is covered, and all questions accurately measure student comprehension of course material. 
+
+### Columbia University Mailman School of Public Health, VIBE Lab                 
+### January 2024-Present
+Graduate Research Assistant 										                                          New York, NY 
+
+●	Creating health infographics for research participants in Philadelphia and New York to communicate research findings and resources to physicians, community health workers, and patients.  
+
+●	Conducting descriptive data analysis on racism scales and maternal health outcomes to develop informational report. This report will be distributed to other maternal health researchers to inform their decision of appropriate racism scale usage for their own epidemiologic analysis. 
+
+●	Managing social media pages for the VIBE Lab, which are used to spread awareness and updates related to maternal health and racial equity. 
+
+●	Editing manuscripts prior to submission, including developing summary tables and describing data collection methods and analysis. 
+
+
+### Columbia University Mailman School of Public Health, ICAP                     
+### May 2024-October 2024
+ICAP Next-Generation Intern									                                            Mwanza, Tanzania
+
+●	Carried out field implementation of fingerprint registration in Geita facilities where registration in currently incomplete and supported routine monitoring, data verification, and data quality assessment.
+
+●	Drafted interview questionnaires for healthcare providers in Geita to evaluate provider beliefs surrounding biometric identification and trends in fingerprint re-scanning.
+
+●	Regularly reported basic descriptive analyses of trends in biometric registration over time, geography, facility type, and clinical service delivery point. 
+
+●	Designed and piloted tools to document implementation challenges to biometric rollout in Mwanza and Geita regions and draft reports with recommendations for sustainable approaches to addressing quality and coverage improvement. 
+
+●	Drafted a landscape analysis tool to facilitate biometric introduction in community-based settings that routinely support HIV prevention, care, and treatment services.  
+
+
+
+# INTERNSHIPS/VOLUNTEER EXPERIENCE   
+
+- Mailman School of Public Health, Department of Epidemiology                                  2024-2025
+Mentor, EpiConnect                                                                          New York, NY
+
+- Drake Institute of Neurophysical Medicine                                                          2023
+Intern, Neurophysical Technician										                                           Irvine, CA	
+     
+- Planned Parenthood, Los Angeles				                                                       2018-2019
+Volunteer, Peer Advocate										                                            	Los Angeles, CA
+
+
+# SELECTED HONORS & ACHIEVEMENTS 					                                                                              
+- Mailman Doctoral Scholar                                                                     2024-2025
+
+
+- Harriet and Robert H. Heilbrunn Scholar                                                      2023-2025
+
+
+- Outstanding Peer Health Educator Award                                                           2023
+
+
+- Frederick M. Roberts College Scholarship	                                                       2022
+                                                                                                   2019
+
+
+
+
+

@@ -1,0 +1,78 @@
+---
+title: "Plotly"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Here are some plots for our website. 
+
+Today, we're making interactive plots in plotly. We'll make examples using the Instacart data from the p8105.datasets package. 
+
+```{r, results='hide'}
+library(tidyverse)
+library(p8105.datasets)
+library(dplyr)
+library(flexdashboard)
+knitr::opts_chunk$set(echo = TRUE)
+library(plotly)
+
+data("Instacart")
+
+janitor::clean_names(instacart)
+
+```
+
+### Initial data cleaning/subsetting.
+
+
+I decided to keep three variables: `order_hour_of_day`, `department`, `days_since_prior_order`. 
+
+```{r}
+instacart_ = 
+  instacart |> 
+  select(order_hour_of_day, department, days_since_prior_order)
+
+```
+
+
+Use plotly to make a histogram plot, a box plot, and a bar graph. First, we are making a histogram to see the distribution of orders by hour. The most orders were placed at 2pm.  
+
+### Histogram
+
+```{r}
+
+instacart_ |> 
+  plot_ly( 
+    x = ~order_hour_of_day, type = "histogram", 
+    marker = list(color = "pink",line = list(color = "grey",width = 2))) |>
+  layout(title = "Hours At Which Orders Were Placed",
+         xaxis = list(title = "Order Hours"),
+         yaxis = list(title = "Frequency"))
+
+
+```
+
+
+### Boxplot
+
+Next up - We are making a box plot. We are looking at department by the number of days since prior order. 
+```{r, warning=FALSE}
+instacart |> 
+  plot_ly(
+    x = ~department, y = ~days_since_prior_order, color = ~department,
+    type = "box")
+```
+
+### Bar Chart
+
+Let's do a bar chart with number of orders by department. Produce has the highest number of orders. 
+```{r, warning=FALSE}
+instacart |> 
+  count(department) |> 
+  mutate(department = fct_reorder(department, n)) |> 
+  plot_ly(
+    x = ~ department, y = ~n, color = ~department,
+    type = "bar")
+```
